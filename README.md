@@ -6,7 +6,7 @@
 ## NOTE: TESTS COMPILE/EXECUTE WHEN THE BELOW COMMAND IS CALLED. THEY DO NOT WORK SEPARATELY - I.E. YOU CANNOT CALL TESTSUITE SEPARATELY.
 
 ```
-user A4 % mvn clean install
+user A4 % mvn clean install package
 ```
 
 It creates three jars:
