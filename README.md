@@ -1,4 +1,4 @@
-# Urbanism Generator (Assignment #4)
+# Urbanism Generator
 
 - Author: Mujtaba Zaidi
 
